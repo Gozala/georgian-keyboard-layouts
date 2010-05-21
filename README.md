@@ -1,6 +1,6 @@
-Installable [Georgian] Keyboard Layouts for OSX
+Installable [Georgian][Georgia] Keyboard Layouts for OSX
 
-This project is about installable Georgian keyboard layouts that unfortunataly
+This project is about installable Georgian keyboard layouts that unfortunately
 are not shipped even with modern OSX.
 
 [Georgia]:http://en.wikipedia.org/wiki/Georgian_language
